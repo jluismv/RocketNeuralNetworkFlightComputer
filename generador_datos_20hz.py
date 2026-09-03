@@ -5,7 +5,7 @@ from pathlib import Path
 from scipy.signal import resample_poly
 
 # --- CONFIGURACIÓN ---
-NUM_VUELOS_SINTETICOS = 100
+NUM_VUELOS_SINTETICOS = 10
 FS_TARGET = 20
 
 # Ajusta estas rutas según tu entorno de trabajo
